@@ -1,6 +1,11 @@
 Note's : 
 
-Linear Algebra :
+
+Linear Algebra : [
+
+Page : [
+Subspace's, span, biasis
+]
 
 can be used to create model's of natural phenomenon. Unlike nonlinear system's which cannot be modeled by linear algebra. can be used for first order approximation's in non linear system's though. vector space's in linear algebra are prefered because they are easy to use and generally prefered because of syntheticism.
 A linear map is a map with an origin called a zero vector or kernal and finding it's image or range (the element's of the linear map) can be solved by using gaussian elimination or some variant. 
@@ -19,3 +24,5 @@ field's are coresponding number's that are used to operate on rational and real 
 Complex number's :
 
 are element's that cannot be satisfied by real number's and thus are very easy to use in equation's and represent a numbersystem that extend's real number's.
+
+]
