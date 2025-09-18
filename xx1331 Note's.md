@@ -3,6 +3,7 @@ Note's :
 Linear Algebra :
 
 can be used to create model's of natural phenomenon. Unlike nonlinear system's which cannot be modeled by linear algebra. can be used for first order approximation's in non linear system's though. vector space's in linear algebra are prefered because they are easy to use and generally prefered because of syntheticism.
+A linear map is a map with an origin called a zero vector or kernal and finding it's image or range (the element's of the linear map) can be solved by using gaussian elimination or some variant. 
 
 In vector space's v + w mean's that if w is added to v then there will be a third binary operation or vector which w create's. 
 That's why in open gl vertex 3f is already a matrix of real number's thus w is not needed. In scalar multiplication scalar's shrink vector's.
